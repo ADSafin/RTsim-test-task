@@ -1,0 +1,16 @@
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\bin\Debug\TestRtsim.exe.config
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\bin\Debug\TestRtsim.exe
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\bin\Debug\TestRtsim.pdb
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\obj\Debug\TestRtsim.csproj.AssemblyReference.cache
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\obj\Debug\TestRtsim.csproj.SuggestedBindingRedirects.cache
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\obj\Debug\TestRtsim.csproj.CoreCompileInputs.cache
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\obj\Debug\TestRtsim.exe
+D:\Проекты РТСИМ\Autotest\TestForRTSIM\TestRtsim\obj\Debug\TestRtsim.pdb
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\bin\Debug\TestRtsim.exe.config
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\bin\Debug\TestRtsim.exe
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\bin\Debug\TestRtsim.pdb
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\obj\Debug\TestRtsim.csproj.AssemblyReference.cache
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\obj\Debug\TestRtsim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\obj\Debug\TestRtsim.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\obj\Debug\TestRtsim.exe
+C:\Users\Айнур\Desktop\Айнур\Загрузкии\Ориг\TestRtsim\obj\Debug\TestRtsim.pdb
